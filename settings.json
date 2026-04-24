@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "UltraCloud6287.aternos.me",
+    "port": 36200,
+    "version": "v26.13",
     "try-creative": false
   },
   "position": {
